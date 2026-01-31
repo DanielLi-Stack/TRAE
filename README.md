@@ -6,3 +6,6 @@ Instead of struggling with small text and technical terms, especially for elderl
 <div>
   <img src="01.png" >
 </div>
+<div>
+  <img src="02-02.png" >
+</div>
