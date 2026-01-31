@@ -4,5 +4,5 @@ UseMate is a smart assistant that transforms product manuals into personal, inte
 
 Instead of struggling with small text and technical terms, especially for elderly users, UseMate turns manuals into conversations and addresses a widespread problem of manual loss, poor readability, and low usability, particularly among elderly and non-technical users.
 <div>
-  <img src="01.png" width="250">
+  <img src="01.png" >
 </div>
