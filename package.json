@@ -1,0 +1,10 @@
+{
+  "name": "book-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix device-demo",
+    "build": "npm run build --prefix device-demo",
+    "start": "npm run start --prefix device-demo",
+    "lint": "npm run lint --prefix device-demo"
+  }
+}
